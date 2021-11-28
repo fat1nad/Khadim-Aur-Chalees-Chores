@@ -1,4 +1,5 @@
 # Khadim Aur Chalees Chores
+*Translates to: Attendant and forty chores*
 
 A highscore based time intensive game which requires the player who is the 'Khadim' to complete different domestic chores or tasks, each within its own time limit. Completing every task scores points. However, if the player fails to not pile up tasks to a certain extent, as each task timer runs out, the player loses the game.
 
